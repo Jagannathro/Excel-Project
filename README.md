@@ -68,7 +68,7 @@ Make sure that you submit/upload both (excel working file and Doc report) files 
 
 # Report:
 Please find the reports here
-Excel file:
-Doc File:
-Presentation:
-Video: https://github.com/Jagannathro/Freshco_Hypermart_Excel_DA/blob/main/insight%20and%20observations%20presentation%20by%20Jagannath%20Roy.mp4
+**Excel file:** https://github.com/Jagannathro/Freshco_Hypermart_Excel_DA/blob/main/Excel%20CapstoneTransactionData%20Jagannath%20Roy.xlsx
+**Doc File:** https://github.com/Jagannathro/Freshco_Hypermart_Excel_DA/blob/main/Report%20having%20insight%20and%20observations%20Jagannath%20Roy.docx
+**Presentation:** https://github.com/Jagannathro/Freshco_Hypermart_Excel_DA/blob/main/insight%20and%20observations%20presentation%20by%20Jagannath%20Roy(ppt).pptx
+**Video: https:** //github.com/Jagannathro/Freshco_Hypermart_Excel_DA/blob/main/insight%20and%20observations%20presentation%20by%20Jagannath%20Roy.mp4
