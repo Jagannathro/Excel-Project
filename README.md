@@ -71,3 +71,4 @@ Please find the reports here
 Excel file:
 Doc File:
 Presentation:
+Video: https://github.com/Jagannathro/Freshco_Hypermart_Excel_DA/blob/main/insight%20and%20observations%20presentation%20by%20Jagannath%20Roy.mp4
