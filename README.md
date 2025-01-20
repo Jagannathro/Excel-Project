@@ -2,7 +2,7 @@
 
 # Dataset 
 
-dataset link: https://github.com/Jagannathro/Freshco_Hypermart_Excel_DA/blob/main/Freshco_Hypermart_Excel_Project_Dataset.xlsx
+dataset link: https://github.com/Jagannathro/Excel-Project/blob/main/Excel_Project_Dataset.xlsx
 
 1. **Completion rate :** This refers to the rate at which orders are completed (Order successfully delivered / Total order placed).
 2. **Customer Lifetime value :** It refers to the total revenue generated per customer. Usually this number is defined across various time period such as 3 month LTV, 6 month LTV or 12 months LTV. However, you don’t need to consider specific time period for this business case. For example, if a person placed 15 orders and paid cumulative 4500 rupees to Freshco, the LTV for the customer is 4500 (excluding discount).
